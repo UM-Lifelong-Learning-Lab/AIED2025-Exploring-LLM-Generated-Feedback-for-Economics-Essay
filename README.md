@@ -1,4 +1,4 @@
-# AIED2025-Prompt-For-Exploring-LLM-Generated-Feedback-for-Economics-Essay
+# Exploring LLM-Generated Feedback for Economics Essay
 This repository includes the prompts and examples for our paper "Exploring LLM-Generated Feedback for Economics Essays: How Teaching Assistants Evaluate and Envision Its Use"
 
 ## Example feedback:
